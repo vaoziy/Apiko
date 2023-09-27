@@ -1,3 +1,4 @@
+console.log("Task №4"); 
 function calculateWordsInString(string) {
 
     const words = string.split(/\s+/);

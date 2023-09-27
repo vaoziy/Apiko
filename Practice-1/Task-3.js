@@ -1,4 +1,5 @@
-function getSeasonByMonth(month) {
+console.log("Task №3");
+ function getSeasonByMonth(month) {
   const months = {
       "january": 1,
       "february": 2,
